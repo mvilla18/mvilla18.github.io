@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## TechStart Portfolio
 
 You can use the [editor on GitHub] (http://GitHub.com/fbgitnritt/portfolio/edit/master/index.md) 
 to maintain and preview the content for you website in Markdown files.
 Whenever tou commit to this repository, GitHub will run [Jekyll] (https:jekyll.com/)
- to rebuild the pages in yor site, from the content in your Markdwo files.
+to rebuild the pages in yor site, from the content in your Markdwo files.
 ### Markdown
 
 Markdown is a ligthweight and easy-to-use syntax for styling your writing. It includes conventions for
